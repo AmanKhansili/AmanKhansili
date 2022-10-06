@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankhansili&label=Profile%20views&color=0e75b6&style=flat" alt="amankhansili" /> </p>
 
-<img align ="right" alt="coding" width="100" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align ="right" alt="coding" width="150" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshs333" alt="lokeshs333" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
