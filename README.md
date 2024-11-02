@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML , CSS , MERN**
 
-- 📫 How to reach me **amankhasnilee@gmail.com**
+- 📫 How to reach me **khasniliaman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
