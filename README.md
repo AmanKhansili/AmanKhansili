@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankhansili&label=Profile%20views&color=0e75b6&style=flat" alt="amankhansili" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pbzY4NmIwbmZyZW5qb2pjdjZwM2xlZmoyenY4dTFjMGcxeDVrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif">
 </a>
 
 - 🔭 I’m currently working on [AI Resume Builder](https://github.com/AmanKhansili/ResumeBuilder.git)
