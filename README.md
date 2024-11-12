@@ -1,6 +1,4 @@
-<p align="center" >
-  <img src="https://raw.githubusercontent.com/AmanKhansili/AmanKhansili/refs/heads/main/img.png" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/AmanKhansili/AmanKhansili/refs/heads/main/img.png" width="100%"/>
 <h1 align="left"><b>Hi , I'm Aman Khansili </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
