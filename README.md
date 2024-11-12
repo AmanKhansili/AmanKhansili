@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Framer Motion**
 
-- 👨‍💻 All of my projects are available at [https://portfolioamankhansili.netlify.app/](https://portfolioamankhansili.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolioamankhansili.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
