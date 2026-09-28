@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **khansiliaman@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11tSqPvuxm5s7-tBzTutA1Sa_z2b2oanL/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dYKA15eGNHt_ioDChmeFi3kgrRBFw-VA/view?usp=sharing)
 
 - ⚡ Fun fact **Coding late at night like, ‘Arrey bhai, ab toh chal ja!’ 😆**
 
