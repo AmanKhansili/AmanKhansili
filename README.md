@@ -60,7 +60,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amankhansili&show_icons=true&locale=en&layout=compact" alt="amankhansili" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=amankhansili&show_icons=true&locale=en" alt="amankhansili" height="180px"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankhansili&" alt="amankhansili" />
 </p>
